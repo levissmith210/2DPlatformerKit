@@ -1,0 +1,1692 @@
+fileFormatVersion: 2
+guid: 9df3d19f4e9ccb84399ed5e3958a28be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8941949596500555277
+    second: spunkbub_0
+  - first:
+      213: 213252953929583948
+    second: spunkbub_1
+  - first:
+      213: -797314642045429589
+    second: spunkbub_2
+  - first:
+      213: 46444049774501379
+    second: spunkbub_3
+  - first:
+      213: -5879391128700549438
+    second: spunkbub_4
+  - first:
+      213: 8790293874904824735
+    second: spunkbub_5
+  - first:
+      213: -8447751216776453196
+    second: spunkbub_6
+  - first:
+      213: 5374258480596799631
+    second: spunkbub_7
+  - first:
+      213: 8563905993416125497
+    second: spunkbub_8
+  - first:
+      213: 2861104079687989377
+    second: spunkbub_9
+  - first:
+      213: -6992533617233472422
+    second: spunkbub_10
+  - first:
+      213: -3815337009622469666
+    second: spunkbub_11
+  - first:
+      213: 677558933667595602
+    second: spunkbub_12
+  - first:
+      213: 2556872864368680419
+    second: spunkbub_13
+  - first:
+      213: 1696707758018311685
+    second: spunkbub_14
+  - first:
+      213: -2754231845207708294
+    second: spunkbub_15
+  - first:
+      213: 7101745643146657366
+    second: spunkbub_16
+  - first:
+      213: -122395952545261392
+    second: spunkbub_17
+  - first:
+      213: -4650608259436601370
+    second: spunkbub_18
+  - first:
+      213: 5364970235208965589
+    second: spunkbub_19
+  - first:
+      213: -8585835786167571383
+    second: spunkbub_20
+  - first:
+      213: 1944603490189499548
+    second: spunkbub_21
+  - first:
+      213: 2292674680115643002
+    second: spunkbub_22
+  - first:
+      213: 1640593219915317614
+    second: spunkbub_23
+  - first:
+      213: -3645702490069128099
+    second: spunkbub_24
+  - first:
+      213: -4156779851973144706
+    second: spunkbub_25
+  - first:
+      213: 7031157863097188372
+    second: spunkbub_26
+  - first:
+      213: -6791011939329302771
+    second: spunkbub_27
+  - first:
+      213: -2655576337080060457
+    second: spunkbub_28
+  - first:
+      213: 5500664372049587823
+    second: spunkbub_29
+  - first:
+      213: 1050301544070492167
+    second: spunkbub_30
+  - first:
+      213: -5863024086451189987
+    second: spunkbub_31
+  - first:
+      213: -3426318342310459697
+    second: spunkbub_32
+  - first:
+      213: 3123973437953408325
+    second: spunkbub_33
+  - first:
+      213: 96392631421192370
+    second: spunkbub_34
+  - first:
+      213: -1117985841449165270
+    second: spunkbub_35
+  - first:
+      213: -1904221958174880614
+    second: spunkbub_36
+  - first:
+      213: -498557218009392324
+    second: spunkbub_37
+  - first:
+      213: -2173427975405162828
+    second: spunkbub_38
+  - first:
+      213: 2096248491339091143
+    second: spunkbub_39
+  - first:
+      213: 426696332890205245
+    second: spunkbub_40
+  - first:
+      213: 7921566046557854122
+    second: spunkbub_41
+  - first:
+      213: -7556958899229759663
+    second: spunkbub_42
+  - first:
+      213: 6961826295098327642
+    second: spunkbub_43
+  - first:
+      213: 206254254134458110
+    second: spunkbub_44
+  - first:
+      213: -1200662274462497333
+    second: spunkbub_45
+  - first:
+      213: 9197463621775532710
+    second: spunkbub_46
+  - first:
+      213: 7536663103273130689
+    second: spunkbub_47
+  - first:
+      213: -3931133485250932740
+    second: spunkbub_48
+  - first:
+      213: -8098863252358920265
+    second: spunkbub_49
+  - first:
+      213: 3928173090382270407
+    second: spunkbub_50
+  - first:
+      213: -7354290703188360880
+    second: spunkbub_51
+  - first:
+      213: 4931857177532575789
+    second: spunkbub_52
+  - first:
+      213: 474077629554015865
+    second: spunkbub_53
+  - first:
+      213: 1511454136784093580
+    second: spunkbub_54
+  - first:
+      213: 7020546440320891084
+    second: spunkbub_55
+  - first:
+      213: 6141062839508376705
+    second: spunkbub_56
+  - first:
+      213: -3773143056520475218
+    second: spunkbub_57
+  - first:
+      213: -2371342323957384120
+    second: spunkbub_58
+  - first:
+      213: -7952729234702829216
+    second: spunkbub_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spunkbub_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 818
+        width: 129
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9032de730d7e380800000000000000
+      internalID: -8941949596500555277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 832
+        width: 154
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d86468e60a5f200800000000000000
+      internalID: 213252953929583948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_2
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 834
+        width: 165
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba81aa2be8e5fe4f0800000000000000
+      internalID: -797314642045429589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_3
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 811
+        width: 161
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e5db00e9005a000800000000000000
+      internalID: 46444049774501379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_4
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 834
+        width: 151
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c688363be4386ea0800000000000000
+      internalID: -5879391128700549438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_5
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 834
+        width: 160
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b7efcc4b56df970800000000000000
+      internalID: 8790293874904824735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_6
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 835
+        width: 149
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b36a25c60f83ca80800000000000000
+      internalID: -8447751216776453196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_7
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 836
+        width: 217
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f805a133d93359a40800000000000000
+      internalID: 5374258480596799631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_8
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 640
+        width: 143
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c2863a02b19d670800000000000000
+      internalID: 8563905993416125497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_9
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 608
+        width: 194
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188393f600fa4b720800000000000000
+      internalID: 2861104079687989377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_10
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 640
+        width: 152
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5452d029b785fe90800000000000000
+      internalID: -6992533617233472422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_11
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 608
+        width: 165
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed33d0b44333d0bc0800000000000000
+      internalID: -3815337009622469666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_12
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 613
+        width: 179
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25546a3a24c276900800000000000000
+      internalID: 677558933667595602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_13
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 640
+        width: 151
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3edd780c256db7320800000000000000
+      internalID: 2556872864368680419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_14
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 610
+        width: 183
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506b45467baeb8710800000000000000
+      internalID: 1696707758018311685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_15
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 630
+        width: 169
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d6355bab007c9d0800000000000000
+      internalID: -2754231845207708294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_16
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 768
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e3fe829087e8260800000000000000
+      internalID: 7101745643146657366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 447
+        width: 160
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8189697892d4ef0800000000000000
+      internalID: -122395952545261392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_18
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 630
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef98c29d68b57fb0800000000000000
+      internalID: -4650608259436601370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_19
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 626
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd9c2c0104347a40800000000000000
+      internalID: 5364970235208965589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_20
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 386
+        width: 179
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c25a997dbf8d880800000000000000
+      internalID: -8585835786167571383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_21
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 502
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cdab5429e9cfa10800000000000000
+      internalID: 1944603490189499548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_22
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 448
+        width: 159
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7243d5797731df10800000000000000
+      internalID: 2292674680115643002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_23
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 448
+        width: 180
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6187fd57de84c610800000000000000
+      internalID: 1640593219915317614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_24
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 447
+        width: 152
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c2caaa6ecd76dc0800000000000000
+      internalID: -3645702490069128099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_25
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 392
+        width: 178
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fc3a98fb62056c0800000000000000
+      internalID: -4156779851973144706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_26
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 392
+        width: 163
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4104a95e2d0b39160800000000000000
+      internalID: 7031157863097188372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_27
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 386
+        width: 164
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f17da1f9a71c1a0800000000000000
+      internalID: -6791011939329302771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_28
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 442
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5f86a246f752bd0800000000000000
+      internalID: -2655576337080060457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_29
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 422
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ea9a44a19465c40800000000000000
+      internalID: 5500664372049587823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_30
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 216
+        width: 348
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700bd5980bb639e00800000000000000
+      internalID: 1050301544070492167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_31
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 400
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17848138aa52aea0800000000000000
+      internalID: -5863024086451189987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_32
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 226
+        width: 128
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc60e2ffe954370d0800000000000000
+      internalID: -3426318342310459697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_33
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 220
+        width: 144
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54df7f05a459a5b20800000000000000
+      internalID: 3123973437953408325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_34
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 204
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b843da6694765100800000000000000
+      internalID: 96392631421192370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_35
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 216
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e9180fccd1c70f0800000000000000
+      internalID: -1117985841449165270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_36
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 232
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ccc71d738d295e0800000000000000
+      internalID: -1904221958174880614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_37
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 214
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bd7580ad4c419f0800000000000000
+      internalID: -498557218009392324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_38
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 240
+        width: 181
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be241d85ce66d1e0800000000000000
+      internalID: -2173427975405162828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_39
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 214
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc073f75ee571d10800000000000000
+      internalID: 2096248491339091143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_40
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 219
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ce1e4dd0eebe500800000000000000
+      internalID: 426696332890205245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_41
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 240
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa950ed595e0fed60800000000000000
+      internalID: 7921566046557854122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_42
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 224
+        width: 135
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157ee2d6be9402790800000000000000
+      internalID: -7556958899229759663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_43
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 188
+        width: 179
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a524f4b41206d9060800000000000000
+      internalID: 6961826295098327642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_44
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 222
+        width: 128
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6f81fb623ccd200800000000000000
+      internalID: 206254254134458110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_45
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 196
+        width: 129
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc54373d504665fe0800000000000000
+      internalID: -1200662274462497333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_46
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 200
+        width: 122
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2228a0f64f3af70800000000000000
+      internalID: 9197463621775532710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_47
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 18
+        width: 604
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca5366592b979860800000000000000
+      internalID: 7536663103273130689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_48
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 200
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff89f65ceec179c0800000000000000
+      internalID: -3931133485250932740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_49
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 48
+        width: 121
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b78ea618ce0b9f80800000000000000
+      internalID: -8098863252358920265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_50
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 192
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfcb740d9ca38630800000000000000
+      internalID: 3928173090382270407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_51
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 45
+        width: 151
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0510085f19f40f990800000000000000
+      internalID: -7354290703188360880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_52
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 178
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d203acd09f9717440800000000000000
+      internalID: 4931857177532575789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_53
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 45
+        width: 143
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97eb681a713449600800000000000000
+      internalID: 474077629554015865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_54
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 181
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c818f458783c9f410800000000000000
+      internalID: 1511454136784093580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_55
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 45
+        width: 144
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8b5708acdfd6160800000000000000
+      internalID: 7020546440320891084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_56
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 45
+        width: 109
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c9f34ad10793550800000000000000
+      internalID: 6141062839508376705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_57
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 152
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead8d5d816a13abc0800000000000000
+      internalID: -3773143056520475218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_58
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 140
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cbba368bc471fd0800000000000000
+      internalID: -2371342323957384120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spunkbub_59
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 14
+        width: 191
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0697caa75ea32a190800000000000000
+      internalID: -7952729234702829216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e3e16b9db563cef4c8503f0ac1a750db
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      spunkbub_0: -8941949596500555277
+      spunkbub_1: 213252953929583948
+      spunkbub_10: -6992533617233472422
+      spunkbub_11: -3815337009622469666
+      spunkbub_12: 677558933667595602
+      spunkbub_13: 2556872864368680419
+      spunkbub_14: 1696707758018311685
+      spunkbub_15: -2754231845207708294
+      spunkbub_16: 7101745643146657366
+      spunkbub_17: -122395952545261392
+      spunkbub_18: -4650608259436601370
+      spunkbub_19: 5364970235208965589
+      spunkbub_2: -797314642045429589
+      spunkbub_20: -8585835786167571383
+      spunkbub_21: 1944603490189499548
+      spunkbub_22: 2292674680115643002
+      spunkbub_23: 1640593219915317614
+      spunkbub_24: -3645702490069128099
+      spunkbub_25: -4156779851973144706
+      spunkbub_26: 7031157863097188372
+      spunkbub_27: -6791011939329302771
+      spunkbub_28: -2655576337080060457
+      spunkbub_29: 5500664372049587823
+      spunkbub_3: 46444049774501379
+      spunkbub_30: 1050301544070492167
+      spunkbub_31: -5863024086451189987
+      spunkbub_32: -3426318342310459697
+      spunkbub_33: 3123973437953408325
+      spunkbub_34: 96392631421192370
+      spunkbub_35: -1117985841449165270
+      spunkbub_36: -1904221958174880614
+      spunkbub_37: -498557218009392324
+      spunkbub_38: -2173427975405162828
+      spunkbub_39: 2096248491339091143
+      spunkbub_4: -5879391128700549438
+      spunkbub_40: 426696332890205245
+      spunkbub_41: 7921566046557854122
+      spunkbub_42: -7556958899229759663
+      spunkbub_43: 6961826295098327642
+      spunkbub_44: 206254254134458110
+      spunkbub_45: -1200662274462497333
+      spunkbub_46: 9197463621775532710
+      spunkbub_47: 7536663103273130689
+      spunkbub_48: -3931133485250932740
+      spunkbub_49: -8098863252358920265
+      spunkbub_5: 8790293874904824735
+      spunkbub_50: 3928173090382270407
+      spunkbub_51: -7354290703188360880
+      spunkbub_52: 4931857177532575789
+      spunkbub_53: 474077629554015865
+      spunkbub_54: 1511454136784093580
+      spunkbub_55: 7020546440320891084
+      spunkbub_56: 6141062839508376705
+      spunkbub_57: -3773143056520475218
+      spunkbub_58: -2371342323957384120
+      spunkbub_59: -7952729234702829216
+      spunkbub_6: -8447751216776453196
+      spunkbub_7: 5374258480596799631
+      spunkbub_8: 8563905993416125497
+      spunkbub_9: 2861104079687989377
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
